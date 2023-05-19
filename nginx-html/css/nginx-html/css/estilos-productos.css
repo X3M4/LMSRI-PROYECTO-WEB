@@ -1,0 +1,143 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilos de encabezado */
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+/* Estilos de navegación */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #333;
+}
+
+nav ul li a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Estilos de secciones */
+section {
+  margin-bottom: 30px;
+}
+#bloque-setas{
+  display: inline-block;
+}
+
+#bloque-cebollas {
+  margin-top: 50px;
+  display: inline-block;
+}
+
+#bloque-almendras {
+  display: inline;
+}
+
+#setas {
+  margin-left: 10px;
+  width: 960px;
+  float: right;
+  border: 10px solid #1E824C;
+}
+
+#grupo-fotos-seta {
+  width: 400px;
+  display: block;
+  float: left;
+}
+
+#almendras {
+  margin-left: 10px;
+  width: 960px;
+  border: 10px solid #1E824C;
+}
+
+
+#grupo-fotos-almendra {
+  width: 600px;
+  display:inline-block;
+  float: right;
+}
+
+#grupo-fotos-cebolla {
+  width: 400px;
+  display: block;
+  float: left;
+}
+
+#cebollas {
+  margin-left: 10px;
+  width: 960px;
+  float: right;
+  border: 10px solid #1E824C;
+}
+
+
+
+
+
+h2 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+/* Estilos de imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Estilos de pie de página */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+footer h4 {
+  margin: 0;
+  font-size: 16px;
+}
+
+  @media all and (max-width: 760px) {
+    .column {
+      float: none;
+    }
+  }

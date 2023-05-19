@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  <producto>
+    <codigo>PlOstra001</codigo>
+    <nombre>Seta de Ostra</nombre>
+    <formato>Bandeja</formato>
+    <peso>250g</peso>
+    <precio>5.99</precio>
+    <precio_por_kg>23.96</precio_por_kg>
+    <calibre>Extra</calibre>
+    <canal>Consumo Doméstico</canal>
+    <epoca>Todo el Año</epoca>
+  </producto>
+  <producto>
+    <codigo>PlOstra002</codigo>
+    <nombre>Seta de Ostra</nombre>
+    <formato>Caja de Plástico</formato>
+    <peso>1.5kg</peso>
+    <precio>12.99</precio>
+    <precio_por_kg>8.66</precio_por_kg>
+    <calibre>Mediano</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Todo el Año</epoca>
+  </producto>
+  <producto>
+    <codigo>PlOstra003</codigo>
+    <nombre>Seta de Ostra</nombre>
+    <formato>Bandeja</formato>
+    <peso>500g</peso>
+    <precio>8.49</precio>
+    <precio_por_kg>16.98</precio_por_kg>
+    <calibre>Mediano</calibre>
+    <canal>Consumo Doméstico</canal>
+    <epoca>Todo el Año</epoca>
+  </producto>
+  <producto>
+    <codigo>PlOstra004</codigo>
+    <nombre>Seta de Ostra</nombre>
+    <formato>Bandeja</formato>
+    <peso>300g</peso>
+    <precio>6.99</precio>
+    <precio_por_kg>23.30</precio_por_kg>
+    <calibre>Gigante</calibre>
+    <canal>Consumo Doméstico</canal>
+    <epoca>Todo el Año</epoca>
+  </producto>
+  <producto>
+    <codigo>PlOstra005</codigo>
+    <nombre>Seta de Ostra</nombre>
+    <formato>Caja de Plástico</formato>
+    <peso>1kg</peso>
+    <precio>9.99</precio>
+    <precio_por_kg>9.99</precio_por_kg>
+    <calibre>Pequeño</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Todo el Año</epoca>
+  </producto>
+  <producto>
+    <codigo>Agaricus bisporus-001</codigo>
+    <nombre>Champiñón blanco</nombre>
+    <formato>Bandeja</formato>
+    <peso>250g</peso>
+    <precio>2.99</precio>
+    <precio_por_kg>11.96</precio_por_kg>
+    <calibre>Pequeño</calibre>
+    <canal>Consumo doméstico</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>Agaricus bisporus-002</codigo>
+    <nombre>Champiñón blanco</nombre>
+    <formato>Bandeja</formato>
+    <peso>500g</peso>
+    <precio>4.99</precio>
+    <precio_por_kg>9.98</precio_por_kg>
+    <calibre>Mediano</calibre>
+    <canal>Consumo doméstico</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>Agaricus bisporus-003</codigo>
+    <nombre>Champiñón blanco</nombre>
+    <formato>Caja de plástico</formato>
+    <peso>1kg</peso>
+    <precio>7.99</precio>
+    <precio_por_kg>7.99</precio_por_kg>
+    <calibre>Grande</calibre>
+    <canal>Consumo doméstico</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>Agaricus bisporus-004</codigo>
+    <nombre>Champiñón blanco</nombre>
+    <formato>Caja de plástico</formato>
+    <peso>2kg</peso>
+    <precio>14.99</precio>
+    <precio_por_kg>7.49</precio_por_kg>
+    <calibre>Grande</calibre>
+    <canal>Horeca</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>Agaricus bisporus-005</codigo>
+    <nombre>Champiñón blanco</nombre>
+    <formato>Caja de plástico</formato>
+    <peso>5kg</peso>
+    <precio>29.99</precio>
+    <precio_por_kg>5.99</precio_por_kg>
+    <calibre>Extra grande</calibre>
+    <canal>Horeca</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+   <producto>
+    <codigo>lentinula_edodes_001</codigo>
+    <nombre>Shiitake Premium</nombre>
+    <formato>Venta al peso</formato>
+    <peso>250g</peso>
+    <precio>5.99</precio>
+    <precio_por_kg>23.96</precio_por_kg>
+    <calibre>Mediano</calibre>
+    <canal>Consumo doméstico</canal>
+    <epoca>Cosecha: Otoño</epoca>
+  </producto>
+  <producto>
+    <codigo>lentinula_edodes_002</codigo>
+    <nombre>Shiitake Ecológico</nombre>
+    <formato>Venta al peso</formato>
+    <peso>500g</peso>
+    <precio>8.99</precio>
+    <precio_por_kg>17.98</precio_por_kg>
+    <calibre>Grande</calibre>
+    <canal>Consumo doméstico</canal>
+    <epoca>Cosecha: Otoño</epoca>
+  </producto>
+  <producto>
+    <codigo>lentinula_edodes_003</codigo>
+    <nombre>Shiitake Premium</nombre>
+    <formato>Bandeja</formato>
+    <peso>300g</peso>
+    <precio>6.99</precio>
+    <precio_por_kg>23.30</precio_por_kg>
+    <calibre>Pequeño</calibre>
+    <canal>Consumo doméstico</canal>
+    <epoca>Cosecha: Otoño</epoca>
+  </producto>
+  <producto>
+    <codigo>lentinula_edodes_004</codigo>
+    <nombre>Shiitake Jumbo</nombre>
+    <formato>Caja de plástico</formato>
+    <peso>1.2kg</peso>
+    <precio>15.99</precio>
+    <precio_por_kg>13.33</precio_por_kg>
+    <calibre>Jumbo</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Cosecha: Otoño</epoca>
+  </producto>
+  <producto>
+    <codigo>lentinula_edodes_005</codigo>
+    <nombre>Shiitake Ahumado</nombre>
+    <formato>Caja de plástico</formato>
+    <peso>800g</peso>
+    <precio>12.99</precio>
+    <precio_por_kg>16.24</precio_por_kg>
+    <calibre>Grande</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Cosecha: Otoño</epoca>
+  </producto>
+  <producto>
+    <codigo>Marcona001</codigo>
+    <nombre>Almendra Marcona</nombre>
+    <formato>Paquete</formato>
+    <peso>200g</peso>
+    <precio>5.99</precio>
+    <precio_por_kg>29.95</precio_por_kg>
+    <calibre>Extra</calibre>
+    <canal>Consumo doméstico</canal>
+    <epoca>Cosecha de verano</epoca>
+  </producto>
+  <producto>
+    <codigo>Largueta001</codigo>
+    <nombre>Almendra Largueta</nombre>
+    <formato>Paquete</formato>
+    <peso>500g</peso>
+    <precio>7.99</precio>
+    <precio_por_kg>15.98</precio_por_kg>
+    <calibre>Superior</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Cosecha de otoño</epoca>
+  </producto>
+  <producto>
+    <codigo>Marcona002</codigo>
+    <nombre>Almendra Marcona</nombre>
+    <formato>Paquete</formato>
+    <peso>1Kg</peso>
+    <precio>12.99</precio>
+    <precio_por_kg>12.99</precio_por_kg>
+    <calibre>Extra</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Cosecha de invierno</epoca>
+  </producto>
+  <producto>
+    <codigo>Largueta002</codigo>
+    <nombre>Almendra Largueta</nombre>
+    <formato>Paquete</formato>
+    <peso>2Kg</peso>
+    <precio>19.99</precio>
+    <precio_por_kg>9.99</precio_por_kg>
+    <calibre>Superior</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Cosecha de primavera</epoca>
+  </producto>
+  <producto>
+    <codigo>Comuna001</codigo>
+    <nombre>Almendra Comuna</nombre>
+    <formato>Paquete</formato>
+    <peso>3Kg</peso>
+    <precio>24.99</precio>
+    <precio_por_kg>8.33</precio_por_kg>
+    <calibre>Estándar</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Cosecha de verano</epoca>
+  </producto>
+  <producto>
+    <codigo>CEB001</codigo>
+    <nombre>Cebolla Amarilla</nombre>
+    <formato>malla</formato>
+    <peso>1 kg</peso>
+    <precio>2.99</precio>
+    <precio_por_kg>2.99</precio_por_kg>
+    <calibre>Mediano</calibre>
+    <canal>Consumo Doméstico</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>CEB002</codigo>
+    <nombre>Cebolla Blanca</nombre>
+    <formato>malla</formato>
+    <peso>5 kg</peso>
+    <precio>7.99</precio>
+    <precio_por_kg>1.60</precio_por_kg>
+    <calibre>Grande</calibre>
+    <canal>Consumo Doméstico</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>CEB003</codigo>
+    <nombre>Cebolla Morada</nombre>
+    <formato>malla</formato>
+    <peso>2 kg</peso>
+    <precio>4.50</precio>
+    <precio_por_kg>2.25</precio_por_kg>
+    <calibre>Mediano</calibre>
+    <canal>Consumo Doméstico</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>CEB004</codigo>
+    <nombre>Cebolla Amarilla</nombre>
+    <formato>granel</formato>
+    <peso>5 kg</peso>
+    <precio>9.99</precio>
+    <precio_por_kg>2.00</precio_por_kg>
+    <calibre>Grande</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+  <producto>
+    <codigo>CEB005</codigo>
+    <nombre>Cebolla Blanca</nombre>
+    <formato>granel</formato>
+    <peso>10 kg</peso>
+    <precio>17.99</precio>
+    <precio_por_kg>1.80</precio_por_kg>
+    <calibre>Extra Grande</calibre>
+    <canal>Canal Horeca</canal>
+    <epoca>Todo el año</epoca>
+  </producto>
+</catalogo>

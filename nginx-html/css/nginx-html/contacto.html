@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>AGROJUCAR</title>
+        <meta name="description" content="HTML5, CSS3">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <link rel="stylesheet" href="css/estilo-contacto.css">
+    </head>
+
+    <body>
+        <div id="page">
+            <header>
+                <h1 id="cabecero">FORMULARIO DE CONTACTO</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Portada</a></li>
+                    <li><a href="presentacion.html">Quienes Somos</a></li>
+                    <li><a href="productos.html">Productos</a></li>
+                    <li><a href="catalogo.html">Catálogo</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                </ul>
+            </nav>
+        </div> 
+        
+        
+        
+        <main>
+            <div>
+                <fieldset>
+                    <legend><strong>Contacte con nosotros</strong></legend>
+                    <p><strong>En que está interesado</strong></p>
+                    <label for="setas-champis">Setas y champiñones</label>
+                    <input type="checkbox" id="setas-champis" name="setas-champis" value="Setas y champiñones">
+                    <label for="almendras">Almendras</label>
+                    <input type="checkbox" id="almendras" name="almendras" value="Almendras">
+                    <label for="cebolla">Cebollas</label>
+                    <input type="checkbox" id="cebolla" name="cebolla" value="Cebolla">
+    
+    
+                </fieldset>
+                <fieldset>
+                    <legend><strong>Cuéntenos algo sobre Ud.</strong></legend>
+                    <label for="nombre">Nombre</label>
+                    <input type="text" id="nombre" name="nombre">
+                    <label for="apellido">Apellidos</label>
+                    <input type="text" id="apellido" name="apellido"><br>
+                    <label for="telefono">Teléfono</label>
+                    <input type="tel" id="telefono" name="telefono">
+                    <label for="email">Email</label>
+                    <input type="email" id = "email" name="email">
+                    
+                    <h3>Represento a:</h3><br>
+                    <label for="particular">Un/una particular</label>
+                    <input type="checkbox" id="particular" name="particular" 
+                        value="A un particular interesado/a en venta a domicilio"><br>
+                    <label for="horeca">Un negocio del sector horeca</label>
+                    <input type="checkbox" id="horeca" name="horeca"><br>
+                    <label for="mensaje">Escriba su mensaje aquí</label><br>
+                    <textarea name="mensaje" id="mensaje" cols="100" rows="10"></textarea>
+                </fieldset>
+                <fieldset>
+                    <legend><strong>Prefiero que me contacten por el siguiente canal</strong></legend>
+                    <label for="tel">Teléfono</label>
+                    <input type="radio" id="tel" name="tel">
+                    <label for="correo">Email</label>
+                    <input type="radio" id="correo" name="correo">
+                    <button onclick="alert('Mensaje enviado')" type="button">Enviar</button>
+                </fieldset>
+            </div>
+        </main>
+
+        <footer>
+            <h4>JOSE MARÍA FERNÁNDEZ MOLINA</h4>
+            <h4>IES SERRA PERENXISA</h4>
+            <h4>10-05-2023</h4>
+        </footer>
+
+    </body>
+</html>

@@ -1,0 +1,109 @@
+/* Estilos generales */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilos de encabezado y navegación */
+
+header {
+  background-color: #1E824C;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+#titulo {
+  font-size: 24px;
+  margin: 0;
+  color: #fff;
+}
+
+nav {
+  background-color: #81C784;
+  padding: 10px;
+}
+  
+  ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  }
+  
+  li {
+  display: inline;
+  margin-right: 10px;
+  }
+  
+  a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  }
+  
+  a:hover {
+  text-decoration:underline;
+  }
+
+/* Estilos de secciones y artículos */
+
+section {
+  width: 1200px;
+  padding: 10px;
+  text-align: justify;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 30px;
+  border: #1E824C 10px solid;
+}
+
+h1 {
+    font-size: 20px;
+    color: #1E824C;
+    margin-top: 0;
+}
+
+p {
+  font-size: 20pxpx;
+  margin-bottom: 10px;
+}
+
+.boton {
+  display: inline-block;
+  background-color: #1E824C;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Estilos de pie de página */
+
+footer {
+  background-color: #5DAF75;
+  color: #FFFFFF;
+  padding: 20px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 14px;
+  margin: 0;
+}
+
+@media all and (max-width: 760px) {
+    .column {
+      float: none;
+    }
+  }

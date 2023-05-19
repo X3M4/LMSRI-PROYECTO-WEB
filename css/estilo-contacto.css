@@ -1,0 +1,122 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos de la barra de navegación */
+  header {
+    background-color: #1E824C;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+#titulo {
+    font-size: 24px;
+    margin: 0;
+    color: #fff;
+}
+
+nav {
+    background-color: #81C784;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  a:hover {
+    text-decoration:underline;
+  }
+  
+  /* Estilos del formulario */
+  form {
+    margin-bottom: 20px;
+  }
+
+  fieldset{
+    border: 10px solid #1E824C;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #1E824C;
+  }
+  
+  legend {
+    font-size: 18px;
+    font-weight: bold;
+    
+  }
+  
+  label {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="tel"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+
+
+@media all and (max-width: 760px) {
+  .column {
+    float: none;
+  }
+}
