@@ -1,0 +1,11 @@
+<!ELEMENT catalogo (producto+)>
+<!ELEMENT producto (codigo,nombre,formato,peso,precio,precio_por_kg,calibre,canal,epoca)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT formato (#PCDATA)>
+<!ELEMENT peso (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT precio_por_kg (#PCDATA)>
+<!ELEMENT calibre (#PCDATA)>
+<!ELEMENT canal (#PCDATA)>
+<!ELEMENT epoca (#PCDATA)>
